@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Usb-C Charger",
+    "price": 155,
+    "imgUrl": "/imgs/usb-c-charger.png"
+  },
+  {
+    "id": 2,
+    "name": "Bushnel Speaker",
+    "price": 125,
+    "imgUrl": "/imgs/bushnel-bluetooth-speaker.png"
+  },
+  {
+    "id": 3,
+    "name": "Fujifilm",
+    "price": 1010,
+    "imgUrl": "/imgs/cp-signal-booster.png"
+  },
+  {
+    "id": 4,
+    "name": "Lens Protector",
+    "price": 20,
+    "imgUrl": "/imgs/lamicall-lens-protector.png"
+  },
+  {
+    "id": 5,
+    "name": "Signal Booster",
+    "price": 140,
+    "imgUrl": "/imgs/cp-signal-booster.png"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Charging Station",
+    "price": 436,
+    "imgUrl": "/imgs/wireless-charging-station.png"
+  },
+  {
+    "id": 7,
+    "name": "Logitech Remote",
+    "price": 31,
+    "imgUrl": "/imgs/logitech-remote.png"
+  },
+  {
+    "id": 8,
+    "name": "Silicone Earbuds",
+    "price": 10,
+    "imgUrl": "/imgs/silicone-earbuds.png"
+  },
+  {
+    "id": 9,
+    "name": "Ear Cushions",
+    "price": 17,
+    "imgUrl": "/imgs/ear-cushions.png"
+  },
+  {
+    "id": 10,
+    "name": "Lorex Power Supply",
+    "price": 1892,
+    "imgUrl": "/imgs/lorex-powersupply.png"
+  },
+  {
+    "id": 11,
+    "name": "Photography Lighting",
+    "price": 409.99,
+    "imgUrl": "/imgs/photography-light.png"
+  },
+  {
+    "id": 12,
+    "name": "Weeylite LED",
+    "price": 118,
+    "imgUrl": "/imgs/weeylite-led.png"
+  },
+  {
+    "id": 13,
+    "name": "Spyder Printer",
+    "price": 190.05,
+    "imgUrl": "/imgs/spyder-printer.png"
+  },
+  {
+    "id": 14,
+    "name": "Toddler Digital Camera",
+    "price": 70,
+    "imgUrl": "/imgs/toddler-digital-camera.png"
+  },
+  {
+    "id": 15,
+    "name": "Tripod Stand",
+    "price": 35,
+    "imgUrl": "/imgs/tripod-stand.png"
+  },
+  {
+    "id": 16,
+    "name": "Airtag Case",
+    "price": 10,
+    "imgUrl": "/imgs/airtag-case.png"
+  },
+  {
+    "id": 17,
+    "name": "Bluetooth Locator",
+    "price": 25,
+    "imgUrl": "/imgs/smart-bluetooth-locator.png"
+  },
+  {
+    "id": 18,
+    "name": "Voice Recorder",
+    "price": 40,
+    "imgUrl": "/imgs/voice-recorder.png"
+  },
+  {
+    "id": 19,
+    "name": "Wireless Speakerphone",
+    "price": 165,
+    "imgUrl": "/imgs/wireless-speakerphone.png"
+  },
+  {
+    "id": 20,
+    "name": "School Document Scanner",
+    "price": 74,
+    "imgUrl": "/imgs/document-scanner.png"
+  },
+  {
+    "id": 21,
+    "name": "DVD Player",
+    "price": 100,
+    "imgUrl": "/imgs/dvd-player.png"
+  },
+  {
+    "id": 22,
+    "name": "Smart TV",
+    "price": 1500,
+    "imgUrl": "/imgs/smart-tv.png"
+  },
+  {
+    "id": 23,
+    "name": "Dual Audio Cable",
+    "price": 89,
+    "imgUrl": "/imgs/dual-audio-cable.png"
+  },
+  {
+    "id": 24,
+    "name": "Home Sound System",
+    "price": 1085,
+    "imgUrl": "/imgs/home-sound.png"
+  },
+  {
+    "id": 25,
+    "name": "Wall Volume Control",
+    "price": 2892,
+    "imgUrl": "/imgs/wall-volume-control.png"
+  },
+  {
+    "id": 26,
+    "name": "HDMI Wall Plate",
+    "price": 674,
+    "imgUrl": "/imgs/hdmi-wallplate.png"
+  },
+  {
+    "id": 27,
+    "name": "Bluetooth 12.5 Earbuds",
+    "price": 142,
+    "imgUrl": "/imgs/b-earbuds.png"
+  },
+  {
+    "id": 28,
+    "name": "Air Wireless Earbuds",
+    "price": 120,
+    "imgUrl": "/imgs/w-earbuds.png"
+  },
+  {
+    "id": 29,
+    "name": "Bluetooth Tracker",
+    "price": 367,
+    "imgUrl": "/imgs/bluetooth-tracker.png"
+  },
+  {
+    "id": 30,
+    "name": "Electric Fish Finder",
+    "price": 509,
+    "imgUrl": "/imgs/e-device-mount.png"
+  }
+]
