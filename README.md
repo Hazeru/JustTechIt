@@ -1,0 +1,1 @@
+<!-- Hello! This is a simple application. If you encounter any issues accessing the code, please don’t hesitate to reach out to me. I’m currently working on modifying the designs and other elements, so I may push another set of code updates soon. -->
